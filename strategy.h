@@ -2,10 +2,10 @@
 #include <ctime>
 #include <fstream>
 
-const double TL = 2.5;
+const double TL = 2.9;
 
 const int STEPS_MIN = 4;
-const int STEPS_MAX = 9;
+const int STEPS_MAX = 7;
 const int MOVES_COUNT_BORDER = 5;
 
 const int mC = 100000;
